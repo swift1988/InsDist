@@ -6,5 +6,4 @@ This is a pytorch implementation for our paper, "Instance-Aware Distillation for
 
 Please first download [mmdetection](https://github.com/open-mmlab/mmdetection) and VOC and DIOR datasets and make sure that you can run a baseline model successfully.
 
-#### 2. Changes the code of mmdetection
 
